@@ -1,0 +1,44 @@
+.banner {
+	background-image: linear-gradient(-225deg, #ffffff40 0%, #00000021 60%), url(../../images/redfood.jpg);
+	color: white;
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+	text-align: center;
+}
+
+.banner h1 {
+	font-size: 50px;
+	text-align: center;
+}
+
+.banner h2 {
+	font-size: 30px;
+	font-weight: lighter;
+	opacity: 0,8;
+	margin-bottom: 40px;
+	text-align: center;
+}
+
+.banner-join {
+	background-image:linear-gradient(-225deg, #5f292940 0%, #0000004a 60%), url(../../images/knife.jpg);
+	color: white;
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+	text-align: center;
+	background-height: 150px;
+}
+
+.banner-join h1 {
+	font-size: 50px;
+	text-align: center;
+}
+
+.banner-join h2 {
+	font-size: 30px;
+	font-weight: lighter;
+	opacity: 0,8;
+	margin-bottom: 40px;
+	text-align: center;
+}
